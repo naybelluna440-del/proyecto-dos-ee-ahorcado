@@ -13,7 +13,7 @@ async function getUserInput(question) {
 let intentosBase = 3; 
 let victorias = 0;
 let derrotas = 0;
-// Regra 3: Array con 100 palabras (Español, >6 caracteres, sin "ñ")
+
 const InventarioPalabras = [
     "COMPUTADORA", "ESCRITORIO", "ESTUDIANTE", "BIBLIOTECA", "PROGRAMACION",
     "UNIVERSIDAD", "DICCIONARIO", "PANTALLA", "TECLADO", "ALGORITMO",
